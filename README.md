@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQL 101
 
 *cf le repo prez pour voir la prez*
@@ -11,3 +12,6 @@ Au minimum, essayez de regarder les vidéos des 4 premiers articles de la partie
 - phpMyAdmin - 12'
 - Lire les données - 23' (s'il n'y en a qu'une seule à visionner, c'est celle là).
 - Ecrire des données - 8'
+=======
+# prez
+>>>>>>> a2aeb34cf3723f2cf74911733f55d4ee0332c900

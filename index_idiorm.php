@@ -11,4 +11,7 @@ foreach($chaussettes as $chaussette){
 	echo $chaussette->couleu = 'rose'.'<br>';
 	echo $chaussette->save();
 }
-
+$pointure = ORM::for_table('mes_chaussettes')->where('pointure','40')->find_many();
+foreach ($pointure as $key) {
+	echo $key->pointure.'<br>';
+}
